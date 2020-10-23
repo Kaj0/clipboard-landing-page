@@ -812,7 +812,7 @@ a:focus{
         flex-direction: column;
     }
     .box9 .inside .left{
-        width: 30%;
+        width: 40%;
         margin: auto;
         display: flex;
         flex-direction: column;
@@ -919,7 +919,7 @@ a:focus{
         margin-bottom: 20px;
     }
     .box9 .inside .left{
-        width: 40%;
+        width: 50%;
     }
 }
 @media screen and (max-width:280px){
