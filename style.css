@@ -812,7 +812,7 @@ a:focus{
         flex-direction: column;
     }
     .box9 .inside .left{
-        width: 40%;
+        width: 50%;
         margin: auto;
         display: flex;
         flex-direction: column;
