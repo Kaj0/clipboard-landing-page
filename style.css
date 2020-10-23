@@ -227,10 +227,10 @@ a{
     color: hsl(210, 10%, 33%);
     text-decoration: none;
 }
-a:focus{
+a:hover{
     color: hsl(171, 66%, 44%);
 }
-.box9 .inside .right .image a:focus{
+.box9 .inside .right .image a:hover{
     color: hsl(171, 66%, 44%);
 }
 @media screen and (max-width:2560px){
